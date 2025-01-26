@@ -9,7 +9,7 @@ A very  box with a bunch of tools applicable for pentesting and related.
 
 ---
 
-## t<span style="color: green;">Updates -></span>
+## <span style="color: green;">Updates -></span>
 
 - There's no changes yet because of privacy by the moment.
 
